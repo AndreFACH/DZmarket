@@ -1,0 +1,219 @@
+body {
+    max-width: 1920px;
+    margin: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+    
+  .navigat ul {
+    border-top: 1px solid gold;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+  }
+  
+  .navigat li {
+    margin: 0 10px;
+  }
+  
+  .navigat a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .head {
+    display: block;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .logo img {
+    width: 258px;
+    height: 80px;
+    float: left;
+    padding-left: 20px;
+  }
+  
+  .fone {
+    display: flex;
+    float: right;
+  }
+  
+  .phone a {
+      font-size: 16px;
+      line-height: 19px;
+      font-weight: 400;
+  }
+     
+  .button {
+    width: 170px;
+    width: 40px;
+    background-color: #E1306C;
+    color: white;
+    /* border: none; */
+    /* border-radius: %;
+    padding: 10px 20px; */
+  }
+/* 
+  .main {
+    display: block;
+     margin: 0 auto;
+  }
+  
+  .main-hed img {
+    background: #F13C6E;
+  } */
+  
+  .main-test {
+    padding: 10px;
+    margin-top: -300px;
+    width: 308px;
+    height: 219px;
+ }
+  
+  /* .main-test h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .main-test p {
+    font-size: 18px;
+    color: #666;
+  } */
+  
+  .block {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+  }
+  
+  .block h3 {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .block-all {
+    width: 25%;
+    margin-bottom: 20px;
+  }
+  
+  .block-all img {
+    width: 125px;
+    height: 136px;
+    margin: 0 auto;
+  }
+  
+  .block-all p {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .block-all h2 {
+    font-size: 24px;
+    color: #E1306C;
+  }
+  
+  .block-email h4 {
+    font-size: 24px;
+  }
+  
+  .block-email p {
+    font-size: 18px;
+  }
+  
+  .impuls { 
+    margin: 20px;
+  }
+  
+  .impuls table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .impuls td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .block {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+  }
+  
+
+  footer {
+    background-color: #F5F5F5;
+    padding: 20px;
+  }
+  
+  .footer {
+    display: flex;
+    align-items: center;
+  }
+  
+  .block-footer {
+    display: inline-block;
+    width: 25%;
+  }
+  
+  .block-footer h4 {
+    font-size: 18px;
+  }
+  
+  .block-footer ul {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  .block-footer li {
+    margin-bottom: 10px;
+  }
+  
+  .block-footer a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .footer-sock {
+    display: flex;
+  }
+  
+  .footer-sock a {
+    margin-right: 10px;
+  }
+  
+  .footer-sock img {
+    height: 30px;
+  }
+   
+  .phone a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .button {
+    margin-left: 20px;
+  }
+  
+  .coperait {
+    display: flex;
+  }
+  
+  .coperait p {
+    margin-right: 10px;
+  }
+  
+  .coperait a {
+    text-decoration: none;
+  }
+        
